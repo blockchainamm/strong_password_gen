@@ -4,3 +4,4 @@ This python script ten random passwords with combination of string characters in
 
 The result of the 10 randomly generated password are displayed in a pandas dataframe.
 
+The strength of the password generated can be checked in https://www.security.org
